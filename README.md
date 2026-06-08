@@ -1,6 +1,6 @@
 # Hi, I'm Danish Irfan 👋
 
-Final-year CS student at UiTM Malaysia. I build things that process text, detect patterns, and turn raw data into something useful. Interested in Data Engineering, Data Science, AI, and Machine Learning.
+Final-year CS student at UiTM. I build things that process text, detect patterns, and turn raw data into something useful. Interested in Data Engineering, Data Science, AI, and Machine Learning.
 
 ---
 
