@@ -4,12 +4,6 @@ Final-year CS student at UiTM Malaysia. I build things that process text, detect
 
 ---
 
-## About Me
-
-- 🎓 B.Sc. Computer Science — Universiti Teknologi MARA (UiTM)
-
----
-
 ## Tech Stack
 
 **Languages**
