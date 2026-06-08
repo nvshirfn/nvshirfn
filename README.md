@@ -10,22 +10,18 @@ Final-year CS student at UiTM Malaysia. I build things that process text, detect
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 **ML / Data**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
 
 **Tools & Frameworks**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -46,21 +42,16 @@ Computer vision system that checks student compliance with UiTM's dress code (SR
 ---
 
 ### 🤖 [Cikgu Bot](https://github.com/nvshirfn/Cikgu-Bot) · [Legal Bot MY](https://github.com/nvshirfn/LegalBotMY)
-Chatbot projects built for educational and legal Q&A contexts in Malaysia.
+AI-powered chatbot projects built using OpenAI GPT for educational (Year 6 Science) and legal Q&A contexts in Malaysia.
+
+`Python` `Flask` `OpenAI API` `SQLite`
 
 ---
 
 ### 🎓 [UniEquip](https://github.com/nvshirfn/UniEquip-Web)
-University equipment management system with a web (PHP) and mobile (Java) interface.
+University equipment inventory and booking system with a web interface. Handles reservations, admin approvals, and reporting.
 
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvshirfn&show_icons=true&hide_border=true&theme=default&hide=prs" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvshirfn&layout=compact&hide_border=true&theme=default" height="150" />
-</p>
+`PHP` `MySQL` `HTML` `CSS`
 
 ---
 
